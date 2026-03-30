@@ -1,5 +1,5 @@
 # dQ/dU per-beam mean correction factors
-# Generated  : 2026-03-30 19:55
+# Generated  : 2026-03-30 20:21
 # Source CSV : /Users/raj030/DATA/reffield-average/assess_1934-ref_ws-4788-qcorr/leakage_master_table.csv
 # Selection  : manifest indices 30–44, excl '24-29'
 # SB_REFs    : 15 contributing observations
